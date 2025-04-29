@@ -4,7 +4,7 @@
  <p>-🎓 Estudante de Engenharia de Software na Uninter</p>
  <p>-💻 Aprendendo, errando, acertando e codando todos os dias</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Guigo&hide=prs&count_private=true&show_icons=true&theme=city_lights)](https://github.com/1Guigo/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Guigo&count_private=true&show_icons=true&theme=city_lights&layout=compact)](https://github.com/1Guigo/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Guigo&hide=prs&count_private=true&show_icons=true&theme=city_lights)](https://github.com/1Guigo/github-readme-stats)
 ## <h3>📚 Atualmente estou estudando as seguintes linguagens : </h3>
 <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
